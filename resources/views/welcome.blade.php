@@ -2,7 +2,7 @@
     <x-slot:heading>
         Home Page
     </x-slot:heading>
-    <h1>
-        Home Daniyal
-    </h1>
+
+    <h1> HOme PAge DAniyal</h1>
 </x-layout>
+
