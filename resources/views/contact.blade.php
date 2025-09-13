@@ -1,8 +1,8 @@
 <x-layout>
     <x-slot:heading>
-        Home Page
+        Contact Page
     </x-slot:heading>
     <h1>
-        Home Daniyal
+        Contact Daniyal
     </h1>
 </x-layout>
